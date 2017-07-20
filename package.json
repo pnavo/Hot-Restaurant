@@ -1,0 +1,27 @@
+{
+  "name": "hotrestaurant",
+  "version": "1.0.0",
+  "description": "reservation web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnavo/Hot-Restaurant.git"
+  },
+  "keywords": [
+    "restaurant"
+  ],
+  "author": "Phillip Navo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pnavo/Hot-Restaurant/issues"
+  },
+  "homepage": "https://github.com/pnavo/Hot-Restaurant#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "path": "^0.12.7"
+  }
+}
